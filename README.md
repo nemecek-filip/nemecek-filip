@@ -16,6 +16,13 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 * [Porting iPhone app to iPad: My experience](https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience)
 * Over 65 posts available [on my blog](https://nemecek.be/blog/swift-and-ios)
 
+
+### 📱 Apps on App Store:
+
+* [Scan it](https://apps.apple.com/app/scan-it-scan-and-export-pdf/id1509634112) - simple document scanner with OCR, iCloud Drive export, PDF export
+* [Chill Zones](https://apps.apple.com/app/chill-zones/id1515920737) - custom video screensavers for your Apple TV
+* [Afterminder](https://apps.apple.com/us/app/afterminder/id1561947180) - quickly create time relative reminders. (e.g.: Dishwasher after 1h 30m)
+
 ----
 
 In the past I did a fair amount of C# (Windows phone apps, WPF desktop apps, ASP.Net and even add-in for Microsoft Outlook 😃).
