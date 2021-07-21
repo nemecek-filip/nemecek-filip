@@ -4,6 +4,8 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 
 🤝 Happy to help with Swift and iOS in general (UIKit though).
 
+🚀 My **main project** is currently [ImpressKit](https://impresskit.net/). I was frustrated with sending Dropbox link as "press kit" for my app, so I created service that lets indie developers quickly create professional press kits. You can read more in the [introduction post](https://nemecek.be/blog/112/introducing-impresskit). I am also [blogging](https://nemecek.be/blog/impresskit) about building this SaaS.
+
 🛠 **Recent projects** include [iOS Feeds](https://iosfeeds.com/) which indexes community blog posts, videos and podcast episodes. Check it out if you are looking for new content about iOS Dev. I also have [similar one](https://djangofeeds.com/) for Django.
 
 ### ✍️ Select blog posts:
@@ -14,7 +16,7 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 * [Building Instagram profile screen with Compositional Layout](https://nemecek.be/blog/72/building-instagram-profile-screen-with-compositional-layout) - hands-on tutorial for Compositional Layout and Diffable
 * [Demystifying Core Data: A guide for newcomers](https://nemecek.be/blog/59/demystifying-core-data-a-guide-for-newcomers)
 * [Porting iPhone app to iPad: My experience](https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience)
-* Over 65 posts available [on my blog](https://nemecek.be/blog/swift-and-ios)
+* Over 80 posts available [on my blog](https://nemecek.be/blog/swift-and-ios)
 
 
 ### 📱 Apps on App Store:
