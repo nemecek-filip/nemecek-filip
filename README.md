@@ -8,6 +8,8 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 
 🛠 **Recent projects** include [iOS Feeds](https://iosfeeds.com/) which indexes community blog posts, videos and podcast episodes. Check it out if you are looking for new content about iOS Dev. I also have [similar one](https://djangofeeds.com/) for Django.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E67VJZ2)
+
 ### ✍️ Select blog posts:
 
 * [Randomness in Swift: Comprehensive overview](https://nemecek.be/blog/89/randomness-in-swift-comprehensive-overview) - including fair randomness, random arrays and more
