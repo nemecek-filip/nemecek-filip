@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently developing **mostly for iOS** with some Django on the side. I write a (mostly iOS focused) [blog](https://nemecek.be/) and I am trying to be active in the iOS Dev community - by helping folks, sharing stories with [iOS Chat interviews](https://nemecek.be/chats/) 💬 and more. 
+I am currently developing **mostly for iOS** with some Django on the side. I write a (mostly iOS focused) [blog](https://nemecek.be/) and I am trying to be active in the iOS Dev community.
 
 🤝 Happy to help with Swift and iOS in general (UIKit though).
 
@@ -8,9 +8,16 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 
 🛠 **Recent projects** include [iOS Feeds](https://iosfeeds.com/) which indexes community blog posts, videos and podcast episodes. Check it out if you are looking for new content about iOS Dev. I also have [similar one](https://djangofeeds.com/) for Django.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E67VJZ2)
+## ✍️ Select blog posts:
 
-### ✍️ Select blog posts:
+### App promotion
+
+* [Press Kit examples for inspiration](https://nemecek.be/blog/154/press-kit-examples-for-inspiration)
+* [Lessons from reviewing 10+ press kits](https://nemecek.be/blog/148/lessons-from-reviewing-10-press-kits)
+* [Where to promote your app for free?](https://nemecek.be/blog/129/places-you-can-promote-your-app-for-free)
+* And [more](https://nemecek.be/blog/series/app-promotion)
+
+#### Swift & iOS
 
 * [Randomness in Swift: Comprehensive overview](https://nemecek.be/blog/89/randomness-in-swift-comprehensive-overview) - including fair randomness, random arrays and more
 * [UIMenu: Comprehensive guide](https://nemecek.be/blog/88/uimenu-comprehensive-guide) - all the standard usecases of `UIMenu`
@@ -18,7 +25,7 @@ I am currently developing **mostly for iOS** with some Django on the side. I wri
 * [Building Instagram profile screen with Compositional Layout](https://nemecek.be/blog/72/building-instagram-profile-screen-with-compositional-layout) - hands-on tutorial for Compositional Layout and Diffable
 * [Demystifying Core Data: A guide for newcomers](https://nemecek.be/blog/59/demystifying-core-data-a-guide-for-newcomers)
 * [Porting iPhone app to iPad: My experience](https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience)
-* Over 80 posts available [on my blog](https://nemecek.be/blog/swift-and-ios)
+* **Over 110 posts** available [on my blog](https://nemecek.be/blog/swift-and-ios)
 
 
 ### 📱 Apps on App Store:
